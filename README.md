@@ -40,13 +40,6 @@ Excel_Project-Data_Analytics is a comprehensive project featuring exercises, dat
 
 ## Screenshots/GIFs
 
-![Demo Dashboard](0_Resources/dashboard_demo.png)
-![Analysis Workflow](0_Resources/analysis_workflow.gif)
-![Pivot Table Example](0_Resources/pivot_example.png)
-
-*See more in the [0_Resources](./0_Resources) folder for demo images and visual assets.*
-
----
 
 ## Key Insights
 
@@ -61,6 +54,3 @@ Excel_Project-Data_Analytics is a comprehensive project featuring exercises, dat
 This project is suitable for those aiming to learn, practice, or apply for positions related to Data Analyst with a solid Excel foundation. Through these projects, I hope to inspire and provide practical value for data processing and analytics using Excel, guiding learners from basics to advanced in an intuitive and accessible way!
 
 ---
-
-> *You can customize and update the README.md to add new insights or skills as new projects are developed.*
-
