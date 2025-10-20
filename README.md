@@ -38,8 +38,6 @@ Excel_Project-Data_Analytics is a comprehensive project featuring exercises, dat
 
 ---
 
-## Screenshots/GIFs
-
 
 ## Key Insights
 
